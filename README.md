@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gobbarakallu Surendra</h1>
+<h1 align="center">
+  <span style="color:#00f0ff;text-shadow:0 0 8px #00f0ff,0 0 15px #8a2be2;">
+    Hi 👋, I'm Gobbarakallu Surendra
+  </span>
+</h1>
 
 <p align="center">
   <img 
@@ -11,9 +15,16 @@
   <img src="https://komarev.com/ghpvc/?username=GobbarakalluSurendra&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
-<h2>🚀 About Me</h2>
+
+<h2>
+  <span style="color:#8a2be2;text-shadow:0 0 6px #8a2be2;">
+    🚀 About Me
+  </span>
+</h2>
 
 <ul>
   <li>🌱 Currently learning <b>Full Stack Web Development (MERN Stack)</b></li>
@@ -22,7 +33,9 @@
   <li>📚 Always improving coding and problem-solving skills</li>
 </ul>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
 <h2>🔭 Current Project</h2>
 
@@ -31,7 +44,9 @@
   👉 <a href="https://github.com/GobbarakalluSurendra/AMS">View Repository</a>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
 <h2>👨‍💻 My Projects</h2>
 
@@ -40,7 +55,9 @@
   👉 <a href="https://github.com/GobbarakalluSurendra">GitHub Profile</a>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
 <h2>📫 Contact Me</h2>
 
@@ -48,7 +65,9 @@
   📧 Email: <b>sgobbarakallu@gmail.com</b>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
 <h2>🌐 Connect with Me</h2>
 
@@ -73,7 +92,9 @@
   </a>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
 <h2>🛠️ Languages & Tools</h2>
 
@@ -92,7 +113,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
 <h2>📊 GitHub Stats</h2>
 
@@ -108,21 +131,31 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GobbarakalluSurendra&theme=tokyonight" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">
+  <span style="color:#00f0ff;text-shadow:0 0 8px #00f0ff;">
+    🐍 Contribution Snake
+  </span>
+</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/GobbarakalluSurendra/GobbarakalluSurendra/output/github-contribution-grid-snake-dark.svg" />
     <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/GobbarakalluSurendra/GobbarakalluSurendra/output/github-contribution-grid-snake.svg" />
+      style="filter: drop-shadow(0 0 6px #00f0ff);"
+      src="https://raw.githubusercontent.com/GobbarakalluSurendra/GobbarakalluSurendra/output/github-contribution-grid-snake.svg"
+      alt="snake animation" />
   </picture>
 </p>
 
-<hr/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:8a2be2&height=3&section=header&animation=twinkling" />
+</p>
 
 <p align="center">
   ⭐ <b>Thanks for visiting my profile! Feel free to explore and connect.</b>
