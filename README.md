@@ -1,58 +1,29 @@
-# Hi 👋, I'm Surendra  
+<h1 align="center">Hi 👋, I'm Gobbarakallu Surendra</h1>
+<h3 align="center">I am currently learning full-stack web development</h3>
 
-🎓 Engineering Student  
-💻 Full Stack Web Development Learner  
-🌱 Currently focusing on MERN Stack  
-🚀 Passionate about building real-world web applications  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gobbarakallusurendra&label=Profile%20views&color=0e75b6&style=flat" alt="gobbarakallusurendra" /> </p>
 
----
+- 🔭 I’m currently working on [Attendence Mangement System](https://github.com/GobbarakalluSurendra/AMS)
 
-## 🧠 About Me
-- I enjoy turning ideas into working web applications  
-- Interested in backend development and databases  
-- Always curious to learn new technologies  
-- Actively building projects to improve my skills  
+- 👨‍💻 All of my projects are available at [https://github.com/GobbarakalluSurendra](https://github.com/GobbarakalluSurendra)
 
----
+- 📫 How to reach me **Sgobbarakallu@gmail.com**
 
-## 🛠️ Tech Stack
-**Frontend**
-- HTML, CSS, JavaScript
-- React.js
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gobbarakallusurendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gobbarakallusurendra/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/gobbarakallusurendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gobbarakallusurendra" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/surendra_2404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/surendra_2404" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sgobbarakallu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sgobbarakallu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/hhny4wujzj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hhny4wujzj/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/sgobbarim0a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/sgobbarim0a" height="30" width="40" /></a>
+</p>
 
-**Backend**
-- Node.js
-- Express.js
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-**Database**
-- MongoDB
-- MySQL
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobbarakallusurendra&show_icons=true&locale=en&layout=compact" alt="gobbarakallusurendra" /></p>
 
-**Tools**
-- Git & GitHub
-- VS Code
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gobbarakallusurendra&show_icons=true&locale=en" alt="gobbarakallusurendra" /></p>
 
----
-
-## 📌 Projects
-🔹 **Todo List App** – Full stack CRUD application  
-🔹 **Attendance Management System** – Student & teacher management  
-🔹 **Mini Full Stack Projects** – Practice apps using MERN stack  
-
-*(More projects coming soon 🚧)*
-
----
-
-## 📈 What I'm Working On
-- Improving backend logic & APIs  
-- Building full-stack projects  
-- Writing clean, readable code  
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/GobbarakalluSurendra  
-
----
-
-⭐ *Feel free to explore my repositories and give feedback!*  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobbarakallusurendra&" alt="gobbarakallusurendra" /></p>
