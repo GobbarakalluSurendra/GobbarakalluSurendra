@@ -106,7 +106,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GobbarakalluSurendra&theme=tokyonight" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GobbarakalluSurendra&theme=tokyonight)
 </p>
 
 <h2 align="center">
