@@ -4,9 +4,11 @@
   </span>
 </h1>
 
+<h3 align="center">Full Stack Developer | MERN Stack | Engineering Student</h3>
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Engineering+Student;Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Building+Real-World+Projects"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Backend+Enthusiast;Building+Real-World+Projects;Open+to+Internships"
     alt="Typing SVG" 
   />
 </p>
@@ -15,100 +17,89 @@
   <img src="https://komarev.com/ghpvc/?username=GobbarakalluSurendra&label=Profile%20views&color=00f0ff&style=flat" />
 </p>
 
-<hr/>
+---
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
-<ul>
-  <li>🎓 Engineering student passionate about <b>Full Stack Web Development</b></li>
-  <li>🌱 Currently learning and building projects using the <b>MERN Stack</b></li>
-  <li>🔭 Working on real-world applications</li>
-  <li>💡 Strong interest in backend development & databases</li>
-  <li>🎯 Goal: Crack internships & placements</li>
-</ul>
+- 🎓 Engineering Student passionate about **Full Stack Development**
+- 🌱 Currently mastering **MERN Stack**
+- 🔭 Building **real-world production projects**
+- 💡 Interested in **Backend, APIs, Databases & System Design**
+- 🎯 Goal: **Crack top internships & placements**
+- ⚡ Strong in **problem solving & logic building**
 
-<hr/>
+---
 
-<h2>🔭 Current Project</h2>
+## 💼 Featured Project
 
-<p>
-  📌 <b>Attendance Management System</b><br/>
-  🛠️ Tech Stack: HTML, CSS, JavaScript, Node.js, Express, MongoDB<br/>
-  👉 <a href="https://github.com/GobbarakalluSurendra/AMS">View Repository</a>
+### 📌 Attendance Management System
+- 🛠 Tech Stack: HTML, CSS, JavaScript, Node.js, Express, MongoDB
+- 📊 Tracks attendance digitally with admin panel
+- 🔗 Repo: https://github.com/GobbarakalluSurendra/AMS
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+HTML | CSS | JavaScript | React
+
+### ⚙️ Backend
+Node.js | Express.js | REST APIs
+
+### 🗄 Databases
+MongoDB | MySQL
+
+### 👨‍💻 Programming
+Java | Python | JavaScript | PHP
+
+### 🔧 Tools
+Git | GitHub | VS Code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GobbarakalluSurendra&show_icons=true&theme=tokyonight" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GobbarakalluSurendra&theme=tokyonight" />
+</p>
 
-<h2>🌐 Connect With Me</h2>
+---
 
-<p>
+## 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/hhny4wujzj/">LeetCode</a> |
+  <a href="https://www.codechef.com/users/surendra_2404">CodeChef</a> |
+  <a href="https://www.hackerrank.com/profile/sgobbarakallu">HackerRank</a> |
+  <a href="https://www.geeksforgeeks.org/profile/sgobbarim0a">GeeksforGeeks</a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/gobbarakallusurendra">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
   <a href="https://www.kaggle.com/gobbarakallusurendra">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
   </a>
-  <a href="https://www.codechef.com/users/surendra_2404">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/sgobbarakallu">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/hhny4wujzj/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/sgobbarim0a">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/>
-  </a>
 </p>
 
-<hr/>
+---
 
-<h2>🛠️ Languages & Tools</h2>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-</p>
-
-<hr/>
-
-<h2>📊 GitHub Stats</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GobbarakalluSurendra&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/GobbarakalluSurendra/GobbarakalluSurendra/output/github-contribution-grid-snake.svg"/>
 </p>
 
+---
 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GobbarakalluSurendra&theme=tokyonight" />
-</p>
-
-<hr/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GobbarakalluSurendra/GobbarakalluSurendra/output/github-contribution-grid-snake-dark.svg" />
-    <img
-      src="https://raw.githubusercontent.com/GobbarakalluSurendra/GobbarakalluSurendra/output/github-contribution-grid-snake.svg"
-      alt="snake animation" />
-  </picture>
-</p>
-
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile! Let’s build something impactful 🚀</b>
-</p>
+<h3 align="center">⭐ Let's build impactful tech & crack big opportunities 🚀</h3>
